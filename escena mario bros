@@ -61,11 +61,7 @@ public class MarioEscena extends JPanel {
         
         
         
-        g.setColor(Color.WHITE);
-        g.fillOval(200, 50, 60, 40);
-        g.fillOval(240, 50, 60, 40);
-        g.fillOval(220, 30, 60, 40);
-        
+    
         
         
 
