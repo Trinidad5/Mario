@@ -54,7 +54,7 @@ public class MarioEscena extends JPanel {
         g.setColor(new Color(80, 200, 100));
         g.fillRect(800, 200, 120, 150);
 
-        // 🌳 ARBUSTO
+
         g.setColor(new Color(50, 120, 30));
         g.fillOval(50, 280, 100, 80);
 
@@ -70,8 +70,7 @@ public class MarioEscena extends JPanel {
         
 
         g.setColor(Color.BLACK);
-        g.drawString("Score: 0000", 20, 20);
-        g.drawString("Coins: 0", 20, 40);
+
     }
 
     
